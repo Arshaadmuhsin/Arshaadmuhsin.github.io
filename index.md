@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title: Welcome to Arshaadmuhsin's homepage.
+description: Needs lots of help and comments on my project.
 
 You can use the [editor on GitHub](https://github.com/Arshaadmuhsin/Arshaadmuhsin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
